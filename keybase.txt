@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/priyald17
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://priyadonti.com
+  * I am priyald17 (https://keybase.io/priyald17) on keybase.
+  * I have a public key with fingerprint C3CA 62F2 C06C E6D9 AFFD  4C89 56DE C190 F16D F86E
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012047d71e287e2a31821988499761e1e8c16990437c1035ccc8ae5820ecc5cac57c0a",
+      "fingerprint": "c3ca62f2c06ce6d9affd4c8956dec190f16df86e",
+      "host": "keybase.io",
+      "key_id": "56dec190f16df86e",
+      "kid": "01019394a001934991b0d80d356a3f50914347d55220b2402d40bf99443c9822fbad0a",
+      "uid": "b78e6fe6d67d18d8303c753013516719",
+      "username": "priyald17"
+    },
+    "service": {
+      "hostname": "priyadonti.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1511730299,
+  "expire_in": 157680000,
+  "prev": "3a648f5f0d0c6f8bd66941e41e185f9451a7a72047385c1ca73a073cc85d9351",
+  "seqno": 32,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMNuAnicbVJ/TFVVHH+kT5NQSuZaieYuRaXwOOf+vg+QTd0oGiyRUTydeO+55z4u
+P959vHcf+QZPzR9IiROGLTb2CGMjazMiC8FpgMMgrChyTXn8sIaJpSEIEinVvSy3
+/ujsbN+d7/l8PufzOed0L19kCQ/LHumqmiz6wxV2qavOZ3GsjistJSRN9hP2UqIA
+LxRcKGOvnlugyoSdAJAENCdzEJM8h0mRgjwJBZ6nBYFjIYaYR5AVBEBTHIKAYhBC
+vIgZngQYIQaJiOEQEIk4QlFdTuxxe1SXbsgiCoksqZAIsAizsiAqikwjXmBYGSMo
+AAWyssKz2CDmaV6TYZiTRC+2qZrRMxa5C/b+B//QN4ACJdAiMKvhFkpA5oFMMaxI
+KQwQIE0ZuRiGJIFE0oCUaSApgkDTFBJ4klQkUV7w7VuQkzges4rhlOVkyMs8BSjE
+MRSAFANZDgom0Is9LrEIG2gjpV8slCFHBOIIo12iImzerBnlvxBZc+mqDWlFBt3t
+0XQNaYXGXp6uu712k6v73Sb4DSzl/iuTK6ku2bhKg1GCPV5VcxF2aCCRrpq6kIGQ
+owApCHEE3u1WPThXNREMx/LAGOY5uMSQpESW5hVGATJArMJLMssKNMTGhDyjCDQD
+RU7kzLeneAZBJHKUCDjKeF1GFozQhBms2KURdoo0fIpOQ9OrOl2i7vNgInCha8di
+S1i4ZYn1EfOPWcKXPf7w51WmRT6IuJF+yGcduPUUk/7uYDMxcXfn9Oiu51LKv9jo
+/JYp79uT1Jjw84n1VyPG6/057Zevh7h2/de3Y/8q/XE+MnjnYmbT102d81f0lzxn
+nrT93Wittx5uOlH1/dSHZXl1odbaLdqjA+pE1q1lymjM+MrpNcje7LQ4qffu7RLI
+nJaeHxw1Q1GLXh7s65rckCmdulAc+ikv6nIgKiP06dBkb96Yf9Bmp7KWzlbW9n7V
++l11lZ4We33r2fA3Yw+lYi0yreG0P2r/kuGehvM9dW3BweqCiongZEvlisoXEo8m
+O3ZvPJjQne/gfgnkj6z6LPu4o+1Y/sx9S/TcJvLVkPrbcOLSa5UruKTFwT7f8X6u
+qLbLEbh9R5gC789NdW4uPpnyzuj5hj83HVwP9ifua83tTDo3V/7E9nHrntj5ooKr
+z9y21/RXv65gLt695Ea4Za5bSLCyq2dsavLN5Ts9yS0V7dfW7mhylxEZHUfeyuwe
+mxr7+GiFJEV8Hv2lc+2DsIEXs23Bk9sbrcNe/FGHXzpbOnvgyCnfB869m8NuTqfO
+TN9dA+KjP+ktWxebsyHs90D9Y3qbXtHs2DaflMVZU+O3nHt6Zcu28ZSx17KSS2Oa
+e4dGgs9f5JQzr2xNa0u/pydkjD+bbm8KeCzz/n39MasOlHTEzCbtjTtd0/kN20Kt
+892/xOR1NIeu9B/+B0OQxfY=
+=FO7E
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/priyald17
+
+==================================================================

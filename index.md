@@ -35,6 +35,10 @@ __Priya L. Donti__, Brandon Amos, and J. Zico Kolter \\
 _Forthcoming in Neural Information Processing Systems (NIPS) 2017_ \\
 <a href="https://arxiv.org/abs/1703.04529" target="_blank">[paper]</a>
 &nbsp; 
+<a href="files/2017/nips-e2e_model_learning_poster.pdf" target="_blank">[poster]</a>
+&nbsp; 
+<a href="https://youtu.be/vGSzqbgDB-8" target="_blank">[video]</a>
+&nbsp; 
 <a href="https://github.com/locuslab/e2e-model-learning" target="_blank">[code]</a>
 * __Predicting the Quality of User Experiences to Improve Productivity and Wellness__ (poster) \\
 __Priya L. Donti__, Jacob Rosenbloom, Alex Gruver, and James C. Boerkoel Jr. \\

@@ -44,3 +44,19 @@ _Neural Information Processing Systems (NIPS) 2017_ \\
 __Priya L. Donti__, Jacob Rosenbloom, Alex Gruver, and James C. Boerkoel Jr. \\
 _Proceedings of the Twenty-Ninth AAAI Conference on Artificial Intelligence (2015)_ \\
 <a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9862/9709" target="_blank">[poster abstract]</a>
+
+
+
+### Preprints/Workshop Papers
+
+
+* __Matrix Completion for Low-Observability Voltage Estimation__ \\
+__Priya L. Donti__, Yajing Liu, Andreas J. Schmitt, Andrey Bernstein, Rui Yang, and Yingchen Zhang \\
+<a href="https://arxiv.org/abs/1801.09799" target="_blank">[paper]</a>
+* __Inverse Optimal Power Flow: Assessing the Vulnerability of Power Grid Data__ \\
+__Priya L. Donti__, Inês Lima Azevedo, and J. Zico Kolter \\
+<i><b>Highlighted paper</b> at the AI for Social Good workshop at NeurIPS 2018</i>\\
+<i><b>Best poster</b> at the Power and Energy Conference at Illinois (PECI) 2019</i>\\
+<a href="https://aiforsocialgood.github.io/2018/pdfs/track1/118_aisg_neurips2018.pdf" target="_blank">[paper]</a>
+&nbsp; 
+<a href="files/2018/inverse_opf_poster.pdf" target="_blank">[poster]</a>

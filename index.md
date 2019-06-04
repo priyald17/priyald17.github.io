@@ -19,6 +19,7 @@ My research lies at the intersection of machine learning and electric power syst
 I am funded through the U.S. Department of Energy's 
 <a href="https://www.krellinst.org/csgf/" target="_blank">Computational Science Graduate Fellowship</a>
 and was previously an NSF Graduate Research Fellow.
+I am also a lead organizer of the Computational Sustainability Network's <a href="https://www.compsust.net/cogs.php" target="_blank">CompSust Open Graduate Seminar (COGS)</a> and a co-organizer of the <a href="https://www.climatechange.ai/" target="_blank">ICML 2019 workshop on AI and climate change</a>.
 
 Before CMU, I was a 
 <a href="https://watson.foundation/" target="_blank">Thomas J. Watson Fellow</a>
@@ -29,7 +30,12 @@ I did my undergrad at Harvey Mudd College in Computer Science/Math with an Empha
 
 ### Publications
 
-
+* __SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver__ \\
+Po-Wei Wang, __Priya L. Donti__, Bryan Wilder, and J. Zico Kolter \\
+_International Conference on Machine Learning (ICML) 2019_ \\
+<a href="https://arxiv.org/abs/1905.12149" target="_blank">[paper]</a>
+&nbsp; 
+<a href="https://github.com/locuslab/SATNet" target="_blank">[code]</a>
 * __Task-based End-to-End Model Learning in Stochastic Optimization__ \\
 __Priya L. Donti__, Brandon Amos, and J. Zico Kolter \\
 _Neural Information Processing Systems (NIPS) 2017_ \\

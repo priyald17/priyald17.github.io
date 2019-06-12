@@ -32,10 +32,14 @@ I did my undergrad at Harvey Mudd College in Computer Science/Math with an Empha
 
 * __SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver__ \\
 Po-Wei Wang, __Priya L. Donti__, Bryan Wilder, and J. Zico Kolter \\
-_International Conference on Machine Learning (ICML) 2019_ \\
+<i><b>Honorable mention</b></i> at _International Conference on Machine Learning (ICML) 2019_ \\
 <a href="https://arxiv.org/abs/1905.12149" target="_blank">[paper]</a>
 &nbsp; 
 <a href="https://github.com/locuslab/SATNet" target="_blank">[code]</a>
+&nbsp; 
+<a href="https://powei.tw/satnet_poster.pdf" target="_blank">[poster]</a>
+&nbsp; 
+<a href="https://powei.tw/satnet_slide.pdf" target="_blank">[slides]</a>
 * __Task-based End-to-End Model Learning in Stochastic Optimization__ \\
 __Priya L. Donti__, Brandon Amos, and J. Zico Kolter \\
 _Neural Information Processing Systems (NIPS) 2017_ \\

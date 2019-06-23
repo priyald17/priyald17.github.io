@@ -32,7 +32,7 @@ I did my undergrad at Harvey Mudd College in Computer Science/Math with an Empha
 
 * __SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver__ \\
 Po-Wei Wang, __Priya L. Donti__, Bryan Wilder, and J. Zico Kolter \\
-<i><b>Honorable mention</b></i> at _International Conference on Machine Learning (ICML) 2019_ \\
+&#127942; <i><b>Honorable mention</b></i> at _International Conference on Machine Learning (ICML) 2019_ \\
 <a href="https://arxiv.org/abs/1905.12149" target="_blank">[paper]</a>
 &nbsp; 
 <a href="https://github.com/locuslab/SATNet" target="_blank">[code]</a>
@@ -59,14 +59,19 @@ _Proceedings of the Twenty-Ninth AAAI Conference on Artificial Intelligence (201
 
 ### Preprints/Workshop Papers
 
-
+* __Tackling Climate Change with Machine Learning__ \\
+David Rolnick, __Priya L. Donti__*, Lynn H. Kaack, Kelly Kochanski, Alexandre Lacoste, Kris Sankaran, Andrew Slavin Ross, Nikola Milojevic-Dupont, Natasha Jaques, Anna Waldman-Brown, Alexandra Luccioni, Tegan Maharaj, Evan D. Sherwin, S. Karthik Mukkavilli, Konrad P. Kording, Carla Gomes, Andrew Y. Ng, Demis Hassabis, John C. Platt, Felix Creutzig, Jennifer Chayes, Yoshua Bengio \\
+<i>*Co-editor of full paper, and sole author of Electricity Systems section.</i>\\
+<a href="https://arxiv.org/abs/1906.05433" target="_blank">[paper]</a>
+&nbsp; 
+<a href="https://www.technologyreview.com/s/613838/ai-climate-change-machine-learning/" target="_blank">[press coverage]</a>
 * __Matrix Completion for Low-Observability Voltage Estimation__ \\
 __Priya L. Donti__, Yajing Liu, Andreas J. Schmitt, Andrey Bernstein, Rui Yang, and Yingchen Zhang \\
 <a href="https://arxiv.org/abs/1801.09799" target="_blank">[paper]</a>
 * __Inverse Optimal Power Flow: Assessing the Vulnerability of Power Grid Data__ \\
 __Priya L. Donti__, Inês Lima Azevedo, and J. Zico Kolter \\
-<i><b>Highlighted paper</b> at the AI for Social Good workshop at NeurIPS 2018</i>\\
-<i><b>Best poster</b> at the Power and Energy Conference at Illinois (PECI) 2019</i>\\
+&#127942; <i><b>Highlighted paper</b> at the AI for Social Good workshop at NeurIPS 2018</i>\\
+&#127942; <i><b>Best poster</b> at the Power and Energy Conference at Illinois (PECI) 2019</i>\\
 <a href="https://aiforsocialgood.github.io/2018/pdfs/track1/118_aisg_neurips2018.pdf" target="_blank">[paper]</a>
 &nbsp; 
 <a href="files/2018/inverse_opf_poster.pdf" target="_blank">[poster]</a>

@@ -19,7 +19,7 @@ My research lies at the intersection of machine learning and electric power syst
 I am funded through the U.S. Department of Energy's 
 <a href="https://www.krellinst.org/csgf/" target="_blank">Computational Science Graduate Fellowship</a>
 and was previously an NSF Graduate Research Fellow.
-I am also a lead organizer of the Computational Sustainability Network's <a href="https://www.compsust.net/cogs.php" target="_blank">CompSust Open Graduate Seminar (COGS)</a> and a co-organizer of the <a href="https://www.climatechange.ai/" target="_blank">ICML 2019 workshop on AI and climate change</a>.
+I am also a co-organizer of <a href="https://www.climatechange.ai/" target="_blank">Climate Change AI</a> and a lead organizer of the Computational Sustainability Network's <a href="https://www.compsust.net/cogs.php" target="_blank">CompSust Open Graduate Seminar (COGS)</a>.
 
 Before CMU, I was a 
 <a href="https://watson.foundation/" target="_blank">Thomas J. Watson Fellow</a>
@@ -29,10 +29,15 @@ I did my undergrad at Harvey Mudd College in Computer Science/Math with an Empha
 
 
 ### Publications
-
+* __How Much Are We Saving after All? Characterizing the Effects of Commonly Varying Assumptions on Emissions and Damage Estimates in PJM__ \\
+__Priya L. Donti__, Inês Lima Azevedo, and J. Zico Kolter \\
+_Environmental Science & Technology (2019)_ \\
+<a href="https://pubs.acs.org/doi/10.1021/acs.est.8b06586" target="_blank">[paper]</a>
+&nbsp; 
+<a href="https://github.com/priyald17/emissions-assumptions" target="_blank">[code]</a>
 * __SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver__ \\
 Po-Wei Wang, __Priya L. Donti__, Bryan Wilder, and J. Zico Kolter \\
-&#127942; <i><b>Honorable mention</b></i> at _International Conference on Machine Learning (ICML) 2019_ \\
+&#127942; <i><b>Honorable mention</b></i> at the _International Conference on Machine Learning (ICML) 2019_ \\
 <a href="https://arxiv.org/abs/1905.12149" target="_blank">[paper]</a>
 &nbsp; 
 <a href="https://github.com/locuslab/SATNet" target="_blank">[code]</a>

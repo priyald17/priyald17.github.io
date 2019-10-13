@@ -19,7 +19,7 @@ My research lies at the intersection of machine learning and electric power syst
 I am funded through the U.S. Department of Energy's 
 <a href="https://www.krellinst.org/csgf/" target="_blank">Computational Science Graduate Fellowship</a>
 and was previously an NSF Graduate Research Fellow.
-I am also a co-organizer of <a href="https://www.climatechange.ai/" target="_blank">Climate Change AI</a> and a lead organizer of the Computational Sustainability Network's <a href="https://www.compsust.net/cogs.php" target="_blank">CompSust Open Graduate Seminar (COGS)</a>.
+I am also a Co-Chair of <a href="https://www.climatechange.ai/" target="_blank">Climate Change AI</a> and a lead organizer of the Computational Sustainability Network's <a href="https://www.compsust.net/cogs.php" target="_blank">CompSust Open Graduate Seminar (COGS)</a>.
 
 Before CMU, I was a 
 <a href="https://watson.foundation/" target="_blank">Thomas J. Watson Fellow</a>

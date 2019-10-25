@@ -11,15 +11,16 @@ Hello! I am Ph.D. student in
 <a href="https://www.cs.cmu.edu/" target="_blank">Computer Science</a>
 and 
 <a href="https://www.cmu.edu/epp/" target="_blank">Public Policy</a>
-at Carnegie Mellon University co-advised by 
+at Carnegie Mellon University, co-advised by 
 <a href="http://zicokolter.com/" target="_blank">Zico Kolter</a>
 and
 <a href="http://www.inesazevedo.org/" target="_blank">In&#234;s Azevedo</a>.
-My research lies at the intersection of machine learning and electric power systems, using algorithmic and policy analytic approaches to promote efficient and low-emission operation of the energy grid.
+My work lies at the intersection of machine learning, electric power systems, and climate change mitigation.
+Specifically, I am interested in creating novel machine learning techniques that incorporate domain knowledge (such as power system physics) to reduce greenhouse gas emissions from the electricity sector.
 I am funded through the U.S. Department of Energy's 
 <a href="https://www.krellinst.org/csgf/" target="_blank">Computational Science Graduate Fellowship</a>
 and was previously an NSF Graduate Research Fellow.
-I am also a Co-Chair of <a href="https://www.climatechange.ai/" target="_blank">Climate Change AI</a> and a lead organizer of the Computational Sustainability Network's <a href="https://www.compsust.net/cogs.php" target="_blank">CompSust Open Graduate Seminar (COGS)</a>.
+I am also a co-chair of <a href="https://www.climatechange.ai/" target="_blank">Climate Change AI</a> and a lead organizer of the Computational Sustainability Network's <a href="https://www.compsust.net/cogs.php" target="_blank">CompSust Open Graduate Seminar (COGS)</a>.
 
 Before CMU, I was a 
 <a href="https://watson.foundation/" target="_blank">Thomas J. Watson Fellow</a>
@@ -30,7 +31,7 @@ I did my undergrad at Harvey Mudd College in Computer Science/Math with an Empha
 
 ### Publications
 * __How Much Are We Saving after All? Characterizing the Effects of Commonly Varying Assumptions on Emissions and Damage Estimates in PJM__ \\
-__Priya L. Donti__, Inês Lima Azevedo, and J. Zico Kolter \\
+__Priya L. Donti__, J. Zico Kolter, and Inês Lima Azevedo \\
 _Environmental Science & Technology (2019)_ \\
 <a href="https://pubs.acs.org/doi/10.1021/acs.est.8b06586" target="_blank">[paper]</a>
 &nbsp; 

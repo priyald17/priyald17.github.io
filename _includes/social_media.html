@@ -2,17 +2,6 @@
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <ul class="list-inline text-center footer-links">
-        {% if site.author.github and site.footer-links-active.github %}
-        <li>
-          <a href="https://github.com/{{ site.author.github }}" target="_blank" title="GitHub">
-            <span class="fa-stack fa-lg" aria-hidden="true">
-              <!-- <i class="fa fa-circle fa-stack-2x"></i> -->
-              <i class="fa fa-github fa-lg"></i>
-            </span>
-            <span class="sr-only">GitHub</span>
-          </a>
-        </li>
-        {% endif %}
     {% if site.author.twitter and site.footer-links-active.twitter %}
         <li>
           <a href="https://twitter.com/{{ site.author.twitter }}" target="_blank" title="Twitter">
@@ -24,14 +13,14 @@
           </a>
         </li>
         {% endif %}
-    {% if site.author.email and site.footer-links-active.email %}
+    {% if site.author.github and site.footer-links-active.github %}
         <li>
-          <a href="mailto:{{ site.author.email }}" target="_blank" title="Email">
+          <a href="https://github.com/{{ site.author.github }}" target="_blank" title="GitHub">
             <span class="fa-stack fa-lg" aria-hidden="true">
               <!-- <i class="fa fa-circle fa-stack-2x"></i> -->
-              <i class="fa fa-envelope fa-lg"></i>
+              <i class="fa fa-github fa-lg"></i>
             </span>
-            <span class="sr-only">Email me</span>
+            <span class="sr-only">GitHub</span>
           </a>
         </li>
         {% endif %}
@@ -95,12 +84,23 @@
         <a href="{{ site.author.cv }}" target="_blank" title="Curriculum Vitae">
           <span class="fa-stack fa-lg" aria-hidden="true">
               <!-- <i class="fa fa-circle fa-stack-2x"></i> -->
-              <i class="fa fa-file-text-o fa-lg"></i>
+              <i class="ai ai-cv ai-lg"></i>
           </span>
           <span class="sr-only">CV</span>
         </a>
       </li>
       {% endif %}
+    {% if site.author.email and site.footer-links-active.email %}
+        <li>
+          <a href="mailto:{{ site.author.email }}" target="_blank" title="Email">
+            <span class="fa-stack fa-lg" aria-hidden="true">
+              <!-- <i class="fa fa-circle fa-stack-2x"></i> -->
+              <i class="fa fa-envelope fa-sm"></i>
+            </span>
+            <span class="sr-only">Email me</span>
+          </a>
+        </li>
+        {% endif %}
 
 
       </ul>

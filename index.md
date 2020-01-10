@@ -51,10 +51,10 @@ Po-Wei Wang, __Priya L. Donti__, Bryan Wilder, and J. Zico Kolter \\
 <a href="https://powei.tw/satnet_slide.pdf" target="_blank">[slides]</a>
 * __Task-based End-to-End Model Learning in Stochastic Optimization__ \\
 __Priya L. Donti__, Brandon Amos, and J. Zico Kolter \\
-_Neural Information Processing Systems (NIPS) 2017_ \\
+_Neural Information Processing Systems (NeurIPS) 2017_ \\
 <a href="https://arxiv.org/abs/1703.04529" target="_blank">[paper]</a>
 &nbsp; 
-<a href="files/2017/nips-e2e_model_learning_poster.pdf" target="_blank">[poster]</a>
+<a href="files/2017/neurips_e2e_model_learning_poster.pdf" target="_blank">[poster]</a>
 &nbsp; 
 <a href="https://youtu.be/vGSzqbgDB-8" target="_blank">[video]</a>
 &nbsp; 

@@ -20,13 +20,12 @@ Specifically, I am interested in creating novel machine learning techniques that
 I am funded through the U.S. Department of Energy's 
 <a href="https://www.krellinst.org/csgf/" target="_blank">Computational Science Graduate Fellowship</a>
 and was previously an NSF Graduate Research Fellow.
-I am also a co-chair of <a href="https://www.climatechange.ai/" target="_blank">Climate Change AI</a> and a lead organizer of the Computational Sustainability Network's <a href="https://www.compsust.net/cogs.php" target="_blank">CompSust Open Graduate Seminar (COGS)</a>.
+I am also co-founder and chair of <a href="https://www.climatechange.ai/" target="_blank">Climate Change AI</a>, an initiative to faciliate impactful work at the intersection of climate change and machine learning.
 
-Before CMU, I was a 
-<a href="https://watson.foundation/" target="_blank">Thomas J. Watson Fellow</a>
-traveling the world to study the people, technologies, and policies behind next-generation electricity systems (project blog 
+Previously, I was a
+<a href="https://watson.foundation/" target="_blank">Thomas J. Watson Fellow</a>, traveling the world to study the people, technologies, and policies behind next-generation electricity systems (project blog 
 <a href="https://priyaswatson.wordpress.com/" target="_blank">here</a>). 
-I did my undergrad at Harvey Mudd College in Computer Science/Math with an Emphasis in Environmental Analysis.
+I did my undergrad at Harvey Mudd College in computer science and math with an emphasis in environmental analysis.
 
 ### Publications
 * __Matrix Completion for Low-Observability Voltage Estimation__ \\

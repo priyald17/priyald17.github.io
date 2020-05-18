@@ -20,7 +20,7 @@ Specifically, I am interested in creating novel machine learning techniques that
 I am funded through the U.S. Department of Energy's 
 <a href="https://www.krellinst.org/csgf/" target="_blank">Computational Science Graduate Fellowship</a>
 and was previously an NSF Graduate Research Fellow.
-I am also co-founder and chair of <a href="https://www.climatechange.ai/" target="_blank">Climate Change AI</a>, an initiative to faciliate impactful work at the intersection of climate change and machine learning.
+I am also co-founder and chair of <a href="https://www.climatechange.ai/" target="_blank">Climate Change AI</a>, an initiative to facilitate impactful work at the intersection of climate change and machine learning.
 
 Previously, I was a
 <a href="https://watson.foundation/" target="_blank">Thomas J. Watson Fellow</a>, traveling the world to study the people, technologies, and policies behind next-generation electricity systems (project blog 

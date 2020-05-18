@@ -7,7 +7,7 @@ img: img/priyadonti.jpg
 social_media: true
 ---
 
-Hello! I am Ph.D. student in 
+Hello! I am a Ph.D. student in 
 <a href="https://www.cs.cmu.edu/" target="_blank">Computer Science</a>
 and 
 <a href="https://www.cmu.edu/epp/" target="_blank">Public Policy</a>

@@ -22,13 +22,14 @@ description: Priya L. Donti, Ph.D. Student in Computer Science and Public Policy
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-# navbar-links:
-#   About Me: "aboutme"
-#   Resources:
-#     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-#     - Learn markdown: "http://www.markdowntutorial.com/"
-#     - GitHub Pages: "https://pages.github.com/"
-#   Author's home: "http://deanattali.com"
+navbar-links:
+  Publications: "publications"
+  Miscellaneous: "misc"
+  Bio: "bio"
+  # Resources:
+  #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  #   - Learn markdown: "http://www.markdowntutorial.com/"
+  #   - GitHub Pages: "https://pages.github.com/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -43,7 +44,7 @@ description: Priya L. Donti, Ph.D. Student in Computer Science and Public Policy
 # By default, the navigation bar and footer have a light gray background, and the main page
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
-# navbar-col: "orange"
+navbar-col: "light gray"
 # navbar-img: "/img/bgimage.png"
 # footer-col: "blue"
 # footer-img: "/img/bgimage.png"
@@ -57,9 +58,9 @@ description: Priya L. Donti, Ph.D. Student in Computer Science and Public Policy
 author:
   name: Priya L. Donti
   email: "pdonti [at] cmu [dot] edu"
-  github: priyald17    # eg. daattali
-  twitter: priyald17   # eg. daattali
-  linkedin: priya-donti-b9080585  # eg. daattali
+  github: priyald17
+  twitter: priyald17
+  linkedin: priya-donti
   googlescholar: PfRSkfEAAAAJ
   cv: files/dontiCV.pdf
 

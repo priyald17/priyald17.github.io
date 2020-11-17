@@ -3,7 +3,7 @@ layout: default
 title: Publications - Priya L. Donti
 ---
 
-For the most up-to-date listing of my publicatons, please see my [Google Scholar page](https://scholar.google.com/citations?user=PfRSkfEAAAAJ){:target="_blank"}.
+For the most up-to-date listing of my publications, please see my [Google Scholar page](https://scholar.google.com/citations?user=PfRSkfEAAAAJ){:target="_blank"}.
 
 
 ### Publications

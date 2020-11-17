@@ -27,6 +27,6 @@ and was previously an NSF Graduate Research Fellow.
 I received my undergraduate degree at Harvey Mudd College in computer science and math with an emphasis in environmental analysis.
 
 ### Recent News
-* 04/2020: Led Climate Change AI's five-day virtual <a href="https://www.climatechange.ai/events/iclr2020">workshop</a> at ICLR 2020.
-* 02/2020: Featured on <a href="https://www.greentechmedia.com/articles/read/beyond-forecasting-artificial-intelligence-is-a-powerful-decarbonization-tool">The Interchange podcast</a> by Greentech Media.
+* 04/2020: Led Climate Change AI's five-day virtual <a href="https://www.climatechange.ai/events/iclr2020" target="_blank">workshop</a> at ICLR 2020.
+* 02/2020: Featured on <a href="https://www.greentechmedia.com/articles/read/beyond-forecasting-artificial-intelligence-is-a-powerful-decarbonization-tool" target="_blank">The Interchange podcast</a> by Greentech Media.
 * 06/2019: Received a best paper honorable mention at ICML 2019 (paper <a href="https://arxiv.org/abs/1905.12149" target="_blank">here</a>). 

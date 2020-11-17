@@ -3,12 +3,16 @@ layout: default
 title: Publications - Priya L. Donti
 ---
 
-For the most up-to-date listing of my publicatons, please see my [Google Scholar page](https://scholar.google.com/citations?user=PfRSkfEAAAAJ).
+For the most up-to-date listing of my publicatons, please see my [Google Scholar page](https://scholar.google.com/citations?user=PfRSkfEAAAAJ){:target="_blank"}.
 
 
 ### Publications
 
-
+* __Enforcing robust control guarantees within neural network policies__ (preprint) \\
+__Priya L. Donti__, Melrose Roderick, Mahyar Fazlyab, J. Zico Kolter \\
+<a href="https://arxiv.org/abs/2011.08105" target="_blank">[paper]</a>
+&nbsp; 
+<a href="https://github.com/locuslab/robust-nn-control" target="_blank">[code]</a>
 * __Tackling Climate Change with Machine Learning__ (preprint) \\
 David Rolnick, __Priya L. Donti__*, Lynn H. Kaack, Kelly Kochanski, Alexandre Lacoste, Kris Sankaran, Andrew Slavin Ross, Nikola Milojevic-Dupont, Natasha Jaques, Anna Waldman-Brown, Alexandra Luccioni, Tegan Maharaj, Evan D. Sherwin, S. Karthik Mukkavilli, Konrad P. Kording, Carla Gomes, Andrew Y. Ng, Demis Hassabis, John C. Platt, Felix Creutzig, Jennifer Chayes, Yoshua Bengio \\
 <i>*Co-editor of full paper, and sole author of Electricity Systems section.</i>\\

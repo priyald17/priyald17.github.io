@@ -24,11 +24,11 @@ Po-Wei Wang, __Priya L. Donti__, Bryan Wilder, and J. Zico Kolter \\
 &#127942; <i><b>Honorable mention</b></i> at the _International Conference on Machine Learning (ICML) 2019_ \\
 <a href="https://arxiv.org/abs/1905.12149" target="_blank">[paper]</a>
 &nbsp; 
-<a href="https://github.com/locuslab/SATNet" target="_blank">[code]</a>
-&nbsp; 
 <a href="https://powei.tw/satnet_poster.pdf" target="_blank">[poster]</a>
 &nbsp; 
 <a href="https://powei.tw/satnet_slide.pdf" target="_blank">[slides]</a>
+&nbsp; 
+<a href="https://github.com/locuslab/SATNet" target="_blank">[code]</a>
 * __Matrix Completion for Low-Observability Voltage Estimation__ \\
 __Priya L. Donti__, Yajing Liu, Andreas J. Schmitt, Andrey Bernstein, Rui Yang, and Yingchen Zhang \\
 _IEEE Transactions on Smart Grid (2019)_ \\
@@ -44,7 +44,7 @@ __Priya L. Donti__, Brandon Amos, and J. Zico Kolter \\
 _Neural Information Processing Systems (NeurIPS) 2017_ \\
 <a href="https://arxiv.org/abs/1703.04529" target="_blank">[paper]</a>
 &nbsp; 
-<a href="files/2017/neurips_e2e_model_learning_poster.pdf" target="_blank">[poster]</a>
+<a href="/files/2017/neurips_e2e_model_learning_poster.pdf" target="_blank">[poster]</a>
 &nbsp; 
 <a href="https://youtu.be/vGSzqbgDB-8" target="_blank">[video]</a>
 &nbsp; 
@@ -63,7 +63,7 @@ __Priya L. Donti__, Inês Lima Azevedo, and J. Zico Kolter \\
 &#127942; <i><b>Best poster</b> at the Power and Energy Conference at Illinois (PECI) 2019</i>\\
 <a href="https://aiforsocialgood.github.io/2018/pdfs/track1/118_aisg_neurips2018.pdf" target="_blank">[paper]</a>
 &nbsp; 
-<a href="files/2018/inverse_opf_poster.pdf" target="_blank">[poster]</a>
+<a href="/files/2018/inverse_opf_poster.pdf" target="_blank">[poster]</a>
 * __Predicting the Quality of User Experiences to Improve Productivity and Wellness__ \\
 __Priya L. Donti__, Jacob Rosenbloom, Alex Gruver, and James C. Boerkoel Jr. \\
 _Proceedings of the Twenty-Ninth AAAI Conference on Artificial Intelligence (2015)_ \\

@@ -8,7 +8,7 @@ title: Publications - Priya L. Donti
 For the most up-to-date listing of my publications, please see my [Google Scholar page](https://scholar.google.com/citations?user=PfRSkfEAAAAJ){:target="_blank"}.<br>
 _* Denotes co-first author_
 
-### Full Publications
+### Papers
 
 * __Enforcing robust control guarantees within neural network policies__ \\
 Priya L. Donti, Melrose Roderick, Mahyar Fazlyab, J. Zico Kolter \\
@@ -64,7 +64,33 @@ _Neural Information Processing Systems (NeurIPS) 2017_ \\
 
 
 
-### Workshop Papers and Posters
+### Selected Workshop Papers, Reports, and Posters
+
+* __Artificial Intelligence and Climate Change: Opportunities, considerations, and policy levers to align AI with climate change goals__ \\
+Lynn H. Kaack, Priya L. Donti, Emma Strubell, David Rolnick \\
+_Heinrich Böll Foundation E-Paper (2020)_ \\
+<a href="https://eu.boell.org/en/2020/12/03/artificial-intelligence-and-climate-change" target="_blank">[paper]</a>
+&nbsp;
+<a href="https://www.youtube.com/watch?v=HEw3xhTMnp0&feature=youtu.be&ab_channel=Heinrich-B%C3%B6ll-StiftungEuropeanUnion" target="_blank">[video]</a>
+
+* __An adversarially robust approach to security-constrained optimal power flow__ \\
+Neeraj Vijay Bedmutha, Priya L. Donti, J. Zico Kolter \\
+_ML4Eng workshop at NeurIPS 2020_ \\
+<a href="https://ml4eng.github.io/camera_readys/53.pdf" target="_blank">[paper]</a>
+&nbsp; 
+<a href="https://ml4eng.github.io/posters/53.pdf" target="_blank">[poster]</a>
+&nbsp;
+<a href="https://slideslive.com/38942213/an-adversarially-robust-approach-to-securityconstrained-optimal-power-flow" target="_blank">[video]</a>
+
+* __Forecasting Marginal Emissions Factors in PJM__ \\
+Amy Wang, Priya L. Donti \\
+_Tackling Climate Change with Machine Learning workshop at NeurIPS 2020_\\
+<a href="https://www.climatechange.ai/papers/neurips2020/92/paper.pdf" target="_blank">[proposal]</a>
+&nbsp; 
+<a href="https://slideslive.com/38942124/forecasting-mefs-in-pjm" target="_blank">[video]</a>
+&nbsp; 
+<a href="https://www.climatechange.ai/papers/neurips2020/92/slides.pdf" target="_blank">[slides]</a>
+
 * __A Call for Universities to Develop Requirements for Community Engagement in AI Research__ \\
 Emily Black, Joshua Williams, Michael A. Madaio, Priya L. Donti \\
 _Position paper at the CHI 2020 Fair & Responsible AI Workshop_\\

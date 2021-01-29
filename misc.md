@@ -3,6 +3,8 @@ layout: default
 title: Misc - Priya L. Donti
 ---
 
+## Miscellaneous
+
 **Marginal Emissions Factors:** I help maintain the <a href="https://cedm.shinyapps.io/MarginalFactors/" target="_blank">Electricity Marginal Factors tool</a>, which publishes historical emissions factors for the US electricity system. These can be used to estimate the effects of power grid interventions on climate change and health. 
 
 **CompSustNet:** I previously organized the <a href="https://www.compsust.net/" target="_blank">Computational Sustainability Network</a>'s annual conference (the CompSust Doctoral Consortium) and graduate student-run webinar series. If you're interested in work at the intersection of computer science and the UN sustainable development goals, I would encourage you to attend the conference, or check out webinar recordings on the CompSustNet website.

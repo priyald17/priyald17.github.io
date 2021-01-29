@@ -27,7 +27,7 @@ ul.a {
 }
 p {
   line-height: 1.5;
-  margin: 30px 0;
+  margin: 15px 0;
 }
 p a {
   /* text-decoration: underline */
@@ -134,7 +134,7 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
-  font-weight: 340;
+  font-weight: 395;
   color: #404040;
 }
 
@@ -167,8 +167,8 @@ img {
 @media only screen and (min-width: 768px) {
   .navbar-custom {
     /*padding: 20px 0;*/
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
     -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
     -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
     transition: background .5s ease-in-out,padding .5s ease-in-out;

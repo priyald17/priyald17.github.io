@@ -24,6 +24,7 @@ description: Priya L. Donti, Ph.D. Student in Computer Science and Public Policy
 # List of links in the navigation bar
 navbar-links:
   Publications: "publications"
+  Climate Change AI: "https://www.climatechange.ai/"
   Miscellaneous: "misc"
   Bio: "bio"
   # Resources:

@@ -3,19 +3,24 @@ layout: default
 title: Publications - Priya L. Donti
 ---
 
-For the most up-to-date listing of my publications, please see my [Google Scholar page](https://scholar.google.com/citations?user=PfRSkfEAAAAJ){:target="_blank"}.
+## Publications
 
+For the most up-to-date listing of my publications, please see my [Google Scholar page](https://scholar.google.com/citations?user=PfRSkfEAAAAJ){:target="_blank"}.<br>
+_* Denotes co-first author_
 
-### Publications
-
-* __Enforcing robust control guarantees within neural network policies__ (preprint) \\
+### Full Publications
+* __Enforcing robust control guarantees within neural network policies__ \\
 __Priya L. Donti__, Melrose Roderick, Mahyar Fazlyab, J. Zico Kolter \\
+To appear at the _International Conference on Learning Representations (ICLR) 2021_ \\
 <a href="https://arxiv.org/abs/2011.08105" target="_blank">[paper]</a>
 &nbsp; 
 <a href="https://github.com/locuslab/robust-nn-control" target="_blank">[code]</a>
+* __DC3: A learning method for optimization with hard constraints__ \\
+__Priya L. Donti__\*, David Rolnick\*, J. Zico Kolter \\
+To appear at the _International Conference on Learning Representations (ICLR) 2021_
 * __Tackling Climate Change with Machine Learning__ (preprint) \\
-David Rolnick, __Priya L. Donti__*, Lynn H. Kaack, Kelly Kochanski, Alexandre Lacoste, Kris Sankaran, Andrew Slavin Ross, Nikola Milojevic-Dupont, Natasha Jaques, Anna Waldman-Brown, Alexandra Luccioni, Tegan Maharaj, Evan D. Sherwin, S. Karthik Mukkavilli, Konrad P. Kording, Carla Gomes, Andrew Y. Ng, Demis Hassabis, John C. Platt, Felix Creutzig, Jennifer Chayes, Yoshua Bengio \\
-<i>*Co-editor of full paper, and sole author of Electricity Systems section.</i>\\
+David Rolnick, __Priya L. Donti__<sup>†</sup>, Lynn H. Kaack, Kelly Kochanski, Alexandre Lacoste, Kris Sankaran, Andrew Slavin Ross, Nikola Milojevic-Dupont, Natasha Jaques, Anna Waldman-Brown, Alexandra Luccioni, Tegan Maharaj, Evan D. Sherwin, S. Karthik Mukkavilli, Konrad P. Kording, Carla Gomes, Andrew Y. Ng, Demis Hassabis, John C. Platt, Felix Creutzig, Jennifer Chayes, Yoshua Bengio \\
+<i><sup>†</sup>Co-editor of full paper, and sole author of Electricity Systems section.</i>\\
 <a href="https://arxiv.org/abs/1906.05433" target="_blank">[paper]</a>
 &nbsp; 
 <a href="https://www.technologyreview.com/s/613838/ai-climate-change-machine-learning/" target="_blank">[press coverage]</a>

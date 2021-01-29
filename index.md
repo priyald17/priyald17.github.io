@@ -23,5 +23,5 @@ Please see [here](/publications) for a list of my recent publications.
 
 I am funded through the U.S. Department of Energy's 
 <a href="https://www.krellinst.org/csgf/" target="_blank">Computational Science Graduate Fellowship</a>
-and was previously an NSF Graduate Research Fellow.
+and was previously an NSF Graduate Research Fellow and a <a href="https://watson.foundation/fellowships/tj" target="_blank">Thomas J. Watson Fellow</a>.
 I received my undergraduate degree at Harvey Mudd College in computer science and math with an emphasis in environmental analysis.

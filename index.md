@@ -7,10 +7,10 @@ img: /img/priyadonti.jpg
 social_media: true
 ---
 
-Hello! I am a Ph.D. student in 
-<a href="https://www.cs.cmu.edu/" target="_blank">Computer Science</a>
-and 
-<a href="https://www.cmu.edu/epp/" target="_blank">Public Policy</a>
+Hello! I am a Ph.D. student in the 
+<a href="https://www.cs.cmu.edu/" target="_blank">Computer Science Department</a>
+and the
+<a href="https://www.cmu.edu/epp/" target="_blank">Department of Engineering & Public Policy</a>
 at Carnegie Mellon University, co-advised by 
 <a href="http://zicokolter.com/" target="_blank">Zico Kolter</a>
 and

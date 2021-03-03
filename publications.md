@@ -30,7 +30,7 @@ David Rolnick, Priya L. Donti<sup>†</sup>, Lynn H. Kaack, Kelly Kochanski, Ale
 
 * __SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver__ \\
 Po-Wei Wang, Priya L. Donti, Bryan Wilder, and J. Zico Kolter \\
-&#127942; <i><b>Honorable mention</b></i> at the _International Conference on Machine Learning (ICML) 2019_ \\
+&#127942; <i><b>Best paper honorable mention</b></i> at the _International Conference on Machine Learning (ICML) 2019_ \\
 <a href="https://arxiv.org/abs/1905.12149" target="_blank">[paper]</a>
 &nbsp; 
 <a href="https://powei.tw/satnet_poster.pdf" target="_blank">[poster]</a>
@@ -75,7 +75,7 @@ _Heinrich Böll Foundation E-Paper (2020)_ \\
 
 * __An adversarially robust approach to security-constrained optimal power flow__ \\
 Neeraj Vijay Bedmutha, Priya L. Donti, J. Zico Kolter \\
-_ML4Eng workshop at NeurIPS 2020_ \\
+_Machine Learning for Engineering Modeling, Simulation, and Design workshop at NeurIPS 2020_ \\
 <a href="https://ml4eng.github.io/camera_readys/53.pdf" target="_blank">[paper]</a>
 &nbsp; 
 <a href="https://ml4eng.github.io/posters/53.pdf" target="_blank">[poster]</a>

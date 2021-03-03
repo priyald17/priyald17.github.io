@@ -25,7 +25,8 @@ description: Priya L. Donti, Ph.D. Student in Computer Science and Public Policy
 navbar-links:
   Publications: "publications"
   Climate Change AI: "https://www.climatechange.ai/"
-  Miscellaneous: "misc"
+  Misc: "misc"
+  CV: "https://www.priyadonti.com/files/dontiCV.pdf"
   Bio: "bio"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -63,7 +64,7 @@ author:
   twitter: priyald17
   linkedin: priya-donti
   googlescholar: PfRSkfEAAAAJ
-  cv: files/dontiCV.pdf
+  # cv: files/dontiCV.pdf
 
 # Select which links to show in the footer
 footer-links-active:

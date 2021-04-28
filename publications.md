@@ -5,7 +5,7 @@ title: Publications - Priya L. Donti
 
 ## Publications
 
-For the most up-to-date listing of my publications, please see my [Google Scholar page](https://scholar.google.com/citations?user=PfRSkfEAAAAJ){:target="_blank"}.<br>
+See also my [Google Scholar page](https://scholar.google.com/citations?user=PfRSkfEAAAAJ){:target="_blank"}.<br>
 _* Denotes co-first author_
 
 ### Papers
@@ -15,11 +15,18 @@ Priya L. Donti, Melrose Roderick, Mahyar Fazlyab, J. Zico Kolter \\
 To appear at the _International Conference on Learning Representations (ICLR) 2021_ \\
 <a href="https://arxiv.org/abs/2011.08105" target="_blank">[paper]</a>
 &nbsp; 
+<a href="/files/2021/robust_nn_control_poster.pdf" target="_blank">[poster]</a>
+&nbsp;
 <a href="https://github.com/locuslab/robust-nn-control" target="_blank">[code]</a>
 
 * __DC3: A learning method for optimization with hard constraints__ \\
 Priya L. Donti\*, David Rolnick\*, J. Zico Kolter \\
-To appear at the _International Conference on Learning Representations (ICLR) 2021_
+To appear at the _International Conference on Learning Representations (ICLR) 2021_ \\
+<a href="https://arxiv.org/abs/2104.12225" target="_blank">[paper]</a>
+&nbsp; 
+<a href="/files/2021/dc3_poster.pdf" target="_blank">[poster]</a>
+&nbsp;
+<a href="https://github.com/locuslab/DC3" target="_blank">[code]</a>
 
 * __Tackling Climate Change with Machine Learning__ (preprint) \\
 David Rolnick, Priya L. Donti<sup>†</sup>, Lynn H. Kaack, Kelly Kochanski, Alexandre Lacoste, Kris Sankaran, Andrew Slavin Ross, Nikola Milojevic-Dupont, Natasha Jaques, Anna Waldman-Brown, Alexandra Luccioni, Tegan Maharaj, Evan D. Sherwin, S. Karthik Mukkavilli, Konrad P. Kording, Carla Gomes, Andrew Y. Ng, Demis Hassabis, John C. Platt, Felix Creutzig, Jennifer Chayes, Yoshua Bengio \\

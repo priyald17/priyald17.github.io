@@ -10,23 +10,30 @@ _* Denotes co-first author_
 
 ### Papers
 
-* __Enforcing robust control guarantees within neural network policies__ \\
-Priya L. Donti, Melrose Roderick, Mahyar Fazlyab, J. Zico Kolter \\
-To appear at the _International Conference on Learning Representations (ICLR) 2021_ \\
-<a href="https://arxiv.org/abs/2011.08105" target="_blank">[paper]</a>
-&nbsp; 
-<a href="/files/2021/robust_nn_control_poster.pdf" target="_blank">[poster]</a>
+* __Enforcing Policy Feasibility Constraints through Differentiable Projection for Energy Optimization__ \\
+Bingqing Chen\*, Priya L. Donti\*, Kyri Baker, J. Zico Kolter, Mario Berges \\
+To appear at _ACM e-Energy 2021_ \\
+<a href="https://arxiv.org/abs/2105.08881" target="_blank">[paper]</a>
 &nbsp;
-<a href="https://github.com/locuslab/robust-nn-control" target="_blank">[code]</a>
+<a href="https://github.com/INFERLab/PROF" target="_blank">[code]</a>
 
 * __DC3: A learning method for optimization with hard constraints__ \\
 Priya L. Donti\*, David Rolnick\*, J. Zico Kolter \\
-To appear at the _International Conference on Learning Representations (ICLR) 2021_ \\
+_International Conference on Learning Representations (ICLR) 2021_ \\
 <a href="https://arxiv.org/abs/2104.12225" target="_blank">[paper]</a>
 &nbsp; 
 <a href="/files/2021/dc3_poster.pdf" target="_blank">[poster]</a>
 &nbsp;
 <a href="https://github.com/locuslab/DC3" target="_blank">[code]</a>
+
+* __Enforcing robust control guarantees within neural network policies__ \\
+Priya L. Donti, Melrose Roderick, Mahyar Fazlyab, J. Zico Kolter \\
+_International Conference on Learning Representations (ICLR) 2021_ \\
+<a href="https://arxiv.org/abs/2011.08105" target="_blank">[paper]</a>
+&nbsp; 
+<a href="/files/2021/robust_nn_control_poster.pdf" target="_blank">[poster]</a>
+&nbsp;
+<a href="https://github.com/locuslab/robust-nn-control" target="_blank">[code]</a>
 
 * __Tackling Climate Change with Machine Learning__ (preprint) \\
 David Rolnick, Priya L. Donti<sup>†</sup>, Lynn H. Kaack, Kelly Kochanski, Alexandre Lacoste, Kris Sankaran, Andrew Slavin Ross, Nikola Milojevic-Dupont, Natasha Jaques, Anna Waldman-Brown, Alexandra Luccioni, Tegan Maharaj, Evan D. Sherwin, S. Karthik Mukkavilli, Konrad P. Kording, Carla Gomes, Andrew Y. Ng, Demis Hassabis, John C. Platt, Felix Creutzig, Jennifer Chayes, Yoshua Bengio \\

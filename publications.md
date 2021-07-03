@@ -12,7 +12,7 @@ _* Denotes co-first author_
 
 * __Enforcing Policy Feasibility Constraints through Differentiable Projection for Energy Optimization__ \\
 Bingqing Chen\*, Priya L. Donti\*, Kyri Baker, J. Zico Kolter, Mario Berges \\
-To appear at _ACM e-Energy 2021_ \\
+&#127942; <i><b>Best paper runner-up</b></i> at the _ACM International Conference on Future Energy Systems (ACM e-Energy) 2021_ \\
 <a href="https://arxiv.org/abs/2105.08881" target="_blank">[paper]</a>
 &nbsp;
 <a href="https://github.com/INFERLab/PROF" target="_blank">[code]</a>

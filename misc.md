@@ -14,6 +14,7 @@ title: Misc - Priya L. Donti
 **Watson Fellowship:** Before starting my Ph.D. at Carnegie Mellon, I was a <a href="https://watson.foundation/" target="_blank">Thomas J. Watson Fellow</a>, traveling the world to study the people, technologies, and policies behind next-generation electricity systems. You can read more about my journey and some of the interviews I conducted on my <a href="https://priyaswatson.wordpress.com/" target="_blank">project blog</a>. 
 
 **Press coverage:** Some selected media on my work is below:
+* 06/2021: Coverage on recognition as an MIT Technology Review <a href="https://www.innovatorsunder35.com/the-list/priya-donti/" target="_blank">Innovator Under 35</a>.
 * 08/2020: Interview in <a href="https://www.aitimejournal.com/@a.m.aditya/interview-with-priya-donti-co-founder-and-chair-climate-change-ai" target="_blank">AI Time Journal</a> on climate change and machine learning.
 * 05/2020: Interview in <a href="https://therising.co/2020/05/08/artificial-intelligence-tackle-climate-change/" target="_blank">The Rising</a>: "To what extent can artificial intelligence help tackle climate change today?"
 * 02/2020: Podcast interview on <a href="https://www.greentechmedia.com/articles/read/beyond-forecasting-artificial-intelligence-is-a-powerful-decarbonization-tool" target="_blank">The Interchange</a>: "Beyond Forecasting: Artificial Intelligence Is a Powerful Decarbonization Tool"

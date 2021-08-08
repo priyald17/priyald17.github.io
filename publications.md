@@ -10,6 +10,11 @@ _* Denotes co-first author_
 
 ### Papers
 
+* __Machine Learning for Sustainable Energy Systems__ \\
+Priya L. Donti, J. Zico Kolter \\
+Forthcoming in the _Annual Review of Environment and Resources (2021)_ \\
+<a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-environ-020220-061831" target="_blank">[preprint]</a>
+
 * __Enforcing Policy Feasibility Constraints through Differentiable Projection for Energy Optimization__ \\
 Bingqing Chen\*, Priya L. Donti\*, Kyri Baker, J. Zico Kolter, Mario Berges \\
 &#127942; <i><b>Best paper runner-up</b></i> at the _ACM International Conference on Future Energy Systems (ACM e-Energy) 2021_ \\

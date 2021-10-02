@@ -21,7 +21,8 @@ My work focuses on machine learning for forecasting, optimization, and control i
 Specifically, my research explores methods to incorporate the physics and hard constraints associated with electric power systems into deep learning models.
 Please see [here](/publications) for a list of my recent publications.
 
-I am funded through the U.S. Department of Energy's 
-<a href="https://www.krellinst.org/csgf/" target="_blank">Computational Science Graduate Fellowship</a>
-and was previously an NSF Graduate Research Fellow and a <a href="https://watson.foundation/fellowships/tj" target="_blank">Thomas J. Watson Fellow</a>.
+I am a member of the MIT Technology Review 2021 list of <a href="https://www.technologyreview.com/innovators-under-35/2021/" target="_blank">35 Innovators Under 35</a>, and am a 2022 Siebel Scholar.
+I was previously a U.S. Department of Energy
+<a href="https://www.krellinst.org/csgf/" target="_blank">Computational Science Graduate Fellow</a>,
+an NSF Graduate Research Fellow, and a <a href="https://watson.foundation/fellowships/tj" target="_blank">Thomas J. Watson Fellow</a>.
 I received my undergraduate degree at Harvey Mudd College in computer science and math with an emphasis in environmental analysis.

@@ -10,10 +10,19 @@ _* Denotes co-first author_
 
 ### Papers
 
+* __Aligning artificial intelligence with climate change mitigation__ \\
+Lynn H. Kaack, Priya L. Donti, Emma Strubell, George Kamiya, Felix Creutzig, David Rolnick \\
+<a href="https://hal.archives-ouvertes.fr/hal-03368037" target="_blank">[preprint]</a>
+
+* __Adversarially Robust Learning for Security-Constrained Optimal Power Flow__ \\
+Priya L. Donti\*, Aayushya Agarwal\*, Neeraj Vijay Bedmutha, Larry Pileggi, J. Zico Kolter \\
+Forthcoming in _Neural Information Processing Systems (NeurIPS) 2021_ \\
+<a href="https://arxiv.org/abs/2111.06961" target="_blank">[paper]</a>
+
 * __Machine Learning for Sustainable Energy Systems__ \\
 Priya L. Donti, J. Zico Kolter \\
-Forthcoming in the _Annual Review of Environment and Resources (2021)_ \\
-<a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-environ-020220-061831" target="_blank">[preprint]</a>
+_Annual Review of Environment and Resources (2021)_ \\
+<a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-environ-020220-061831" target="_blank">[paper]</a>
 
 * __Enforcing Policy Feasibility Constraints through Differentiable Projection for Energy Optimization__ \\
 Bingqing Chen\*, Priya L. Donti\*, Kyri Baker, J. Zico Kolter, Mario Berges \\
@@ -40,8 +49,9 @@ _International Conference on Learning Representations (ICLR) 2021_ \\
 &nbsp;
 <a href="https://github.com/locuslab/robust-nn-control" target="_blank">[code]</a>
 
-* __Tackling Climate Change with Machine Learning__ (preprint) \\
-David Rolnick, Priya L. Donti<sup>†</sup>, Lynn H. Kaack, Kelly Kochanski, Alexandre Lacoste, Kris Sankaran, Andrew Slavin Ross, Nikola Milojevic-Dupont, Natasha Jaques, Anna Waldman-Brown, Alexandra Luccioni, Tegan Maharaj, Evan D. Sherwin, S. Karthik Mukkavilli, Konrad P. Kording, Carla Gomes, Andrew Y. Ng, Demis Hassabis, John C. Platt, Felix Creutzig, Jennifer Chayes, Yoshua Bengio \\
+* __Tackling Climate Change with Machine Learning__ \\
+David Rolnick, Priya L. Donti<sup>†</sup>, Lynn H. Kaack, Kelly Kochanski, Alexandre Lacoste, Kris Sankaran, Andrew Slavin Ross, Nikola Milojevic-Dupont, Natasha Jaques, Anna Waldman-Brown, Alexandra Luccioni, Tegan Maharaj, Evan D. Sherwin, S. Karthik Mukkavilli, Konrad P. Kording, Carla P. Gomes, Andrew Y. Ng, Demis Hassabis, John C. Platt, Felix Creutzig, Jennifer Chayes, Yoshua Bengio \\
+Forthcoming in <i>ACM Computing Surveys (2021)</i>. \[Preprint published 2019.\]\\
 <i><sup>†</sup>Co-editor of full paper, and sole author of Electricity Systems section.</i>\\
 <a href="https://arxiv.org/abs/1906.05433" target="_blank">[paper]</a>
 &nbsp; 
@@ -81,16 +91,21 @@ _Neural Information Processing Systems (NeurIPS) 2017_ \\
 &nbsp; 
 <a href="https://github.com/locuslab/e2e-model-learning" target="_blank">[code]</a>
 
+### Policy Reports
 
-
-### Selected Workshop Papers, Reports, and Posters
+* __Climate Change and AI: Recommendations for Government Action__ \\
+Peter Clutton-Brock\*, David Rolnick\*, Priya L. Donti\*, Lynn H. Kaack\*, Tegan Maharaj, Alexandra Luccioni, Hari Prasanna Das, Cyrus Hodes, Virginia Dignum, Marta Kwiatkowska, Raja Chatila, Nicolas Miailhe \\
+_Global Partnership on AI (GPAI) Report (2021)_ \\
+<a href="https://www.gpai.ai/projects/climate-change-and-ai.pdf" target="_blank">[report]</a>
 
 * __Artificial Intelligence and Climate Change: Opportunities, considerations, and policy levers to align AI with climate change goals__ \\
 Lynn H. Kaack, Priya L. Donti, Emma Strubell, David Rolnick \\
 _Heinrich Böll Foundation E-Paper (2020)_ \\
-<a href="https://eu.boell.org/en/2020/12/03/artificial-intelligence-and-climate-change" target="_blank">[paper]</a>
+<a href="https://eu.boell.org/en/2020/12/03/artificial-intelligence-and-climate-change" target="_blank">[report]</a>
 &nbsp;
-<a href="https://www.youtube.com/watch?v=HEw3xhTMnp0&feature=youtu.be&ab_channel=Heinrich-B%C3%B6ll-StiftungEuropeanUnion" target="_blank">[video]</a>
+<a href="https://www.youtube.com/watch?v=HEw3xhTMnp0&feature=youtu.be&ab_channel=Heinrich-B%C3%B6ll-StiftungEuropeanUnion" target="_blank">[briefing]</a>
+
+### Workshop Papers
 
 * __An adversarially robust approach to security-constrained optimal power flow__ \\
 Neeraj Vijay Bedmutha, Priya L. Donti, J. Zico Kolter \\
@@ -131,4 +146,4 @@ _Proceedings of the Twenty-Ninth AAAI Conference on Artificial Intelligence (201
 * __Exploring Active and Passive Team-Based Coordination__ \\
 Priya L. Donti and James C. Boerkoel Jr. \\
 _Artificial Intelligence for Human-Robot Interaction at the 2014 AAAI Fall Symposium_ \\
-<a href="https://www.cs.hmc.edu/~boerkoel/Donti_Boerkoel_AIHRI_2014.pdf" target="_blank">[abstract]</a>
+<a href="https://www.aaai.org/ocs/index.php/FSS/FSS14/paper/view/9112/9144" target="_blank">[poster abstract]</a>

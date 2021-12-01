@@ -26,7 +26,7 @@ navbar-links:
   Publications: "publications"
   Climate Change AI: "https://www.climatechange.ai/"
   Misc: "misc"
-  CV: "https://www.priyadonti.com/files/dontiCV.pdf"
+  CV: "files/dontiCV.pdf"
   Bio: "bio"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"

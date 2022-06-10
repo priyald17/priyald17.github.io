@@ -12,11 +12,12 @@ _* Denotes co-first author_
 
 * __Aligning artificial intelligence with climate change mitigation__ \\
 Lynn H. Kaack, Priya L. Donti, Emma Strubell, George Kamiya, Felix Creutzig, David Rolnick \\
-<a href="https://hal.archives-ouvertes.fr/hal-03368037" target="_blank">[preprint]</a>
+_Nature Climate Change (2022)_ \\
+<a href="https://rdcu.be/cPjSv" target="_blank">[paper]</a>
 
 * __Adversarially Robust Learning for Security-Constrained Optimal Power Flow__ \\
 Priya L. Donti\*, Aayushya Agarwal\*, Neeraj Vijay Bedmutha, Larry Pileggi, J. Zico Kolter \\
-Forthcoming in _Neural Information Processing Systems (NeurIPS) 2021_ \\
+_Neural Information Processing Systems (NeurIPS) 2021_ \\
 <a href="https://arxiv.org/abs/2111.06961" target="_blank">[paper]</a>
 
 * __Machine Learning for Sustainable Energy Systems__ \\

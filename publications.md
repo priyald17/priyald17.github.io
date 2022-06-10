@@ -52,9 +52,11 @@ _International Conference on Learning Representations (ICLR) 2021_ \\
 
 * __Tackling Climate Change with Machine Learning__ \\
 David Rolnick, Priya L. Donti<sup>†</sup>, Lynn H. Kaack, Kelly Kochanski, Alexandre Lacoste, Kris Sankaran, Andrew Slavin Ross, Nikola Milojevic-Dupont, Natasha Jaques, Anna Waldman-Brown, Alexandra Luccioni, Tegan Maharaj, Evan D. Sherwin, S. Karthik Mukkavilli, Konrad P. Kording, Carla P. Gomes, Andrew Y. Ng, Demis Hassabis, John C. Platt, Felix Creutzig, Jennifer Chayes, Yoshua Bengio \\
-Forthcoming in <i>ACM Computing Surveys (2021)</i>. \[Preprint published 2019.\]\\
+<i>ACM Computing Surveys (2022)</i>. \[Preprint published 2019.\]\\
 <i><sup>†</sup>Co-editor of full paper, and sole author of Electricity Systems section.</i>\\
-<a href="https://arxiv.org/abs/1906.05433" target="_blank">[paper]</a>
+<a href="https://dl.acm.org/doi/10.1145/3485128" target="_blank">[paper]</a>
+&nbsp; 
+<a href="https://arxiv.org/abs/1906.05433" target="_blank">[preprint]</a>
 &nbsp; 
 <a href="https://www.technologyreview.com/s/613838/ai-climate-change-machine-learning/" target="_blank">[press coverage]</a>
 

@@ -10,6 +10,11 @@ _* Denotes co-first author_
 
 ### Papers
 
+* __Employing Adversarial Robustness Techniques for Large-Scale Stochastic Optimal Power Flow__ \\
+Aayushya Agarwal, Priya L. Donti, J. Zico Kolter, Larry Pileggi \\
+_Power Systems Computation Conference (PSCC) 2022_ \\
+<a href="https://pscc.epfl.ch/rms/modules/request.php?module=oc_program&action=view.php&id=1517&file=1/1517.pdf" target="_blank">[paper]</a>
+
 * __Aligning artificial intelligence with climate change mitigation__ \\
 Lynn H. Kaack, Priya L. Donti, Emma Strubell, George Kamiya, Felix Creutzig, David Rolnick \\
 _Nature Climate Change (2022)_ \\

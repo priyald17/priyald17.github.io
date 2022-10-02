@@ -9,7 +9,7 @@ title: Misc - Priya L. Donti
 
 **CompSustNet:** I previously organized the <a href="https://www.compsust.net/" target="_blank">Computational Sustainability Network</a>'s annual conference (the CompSust Doctoral Consortium) and graduate student-run webinar series. If you're interested in work at the intersection of computer science and the UN sustainable development goals, I would encourage you to attend the conference, or check out webinar recordings on the CompSustNet website.
 
-**Tech4Society:** I am a co-founder and leader of <a href="http://www.tech4society.group/" target="_blank">Tech4Society</a>, a group dedicated to donating technical skills to grassroots organizations in the Pittsburgh area. If you are interested in joining or learning more, please get in touch!
+**Tech4Society:** I am a co-founder and former leader of <a href="http://www.tech4society.group/" target="_blank">Tech4Society</a>, a group dedicated to donating technical skills to grassroots organizations in the Pittsburgh area. If you are interested in joining or learning more, please get in touch!
 
 **Watson Fellowship:** Before starting my Ph.D. at Carnegie Mellon, I was a <a href="https://watson.foundation/" target="_blank">Thomas J. Watson Fellow</a>, traveling the world to study the people, technologies, and policies behind next-generation electricity systems. You can read more about my journey and some of the interviews I conducted on my <a href="https://priyaswatson.wordpress.com/" target="_blank">project blog</a>. 
 

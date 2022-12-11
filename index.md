@@ -13,7 +13,7 @@ My research focuses on machine learning for forecasting, optimization, and contr
 Specifically, my work explores methods to incorporate the physics and hard constraints associated with electric power systems into deep learning workflows.
 Please see [here](/publications) for a list of my recent publications.
 
-I am a recipient of the MIT Technology Review's 2021 <a href="https://www.technologyreview.com/innovators-under-35/2021/" target="_blank">"35 Innovators Under 35"</a> award.
+I am a recipient of the MIT Technology Review's 2021 <a href="https://www.technologyreview.com/innovators-under-35/2021/" target="_blank">"35 Innovators Under 35"</a> award and of the 2022 ACM SIGEnergy Doctoral Dissertation Award.
 I was previously a U.S. Department of Energy Computational Science Graduate Fellow, a Siebel Scholar,
 an NSF Graduate Research Fellow, and a Thomas J. Watson Fellow.
 I received my Ph.D. from the <a href="https://www.cs.cmu.edu/" target="_blank">Computer Science Department</a>

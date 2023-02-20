@@ -5,7 +5,7 @@ title: Publications - Priya L. Donti
 
 ## Publications
 
-See also my [Google Scholar page](https://scholar.google.com/citations?user=PfRSkfEAAAAJ){:target="_blank"}.<br>
+See also my [Google Scholar page](https://scholar.google.com/citations?user=PfRSkfEAAAAJ){:target="_blank"} and my [PhD thesis](https://kilthub.cmu.edu/articles/thesis/Bridging_Deep_Learning_and_Electric_Power_Systems/21357516){:target="_blank"}.<br>
 _* Denotes co-first author_
 
 ### Papers
@@ -98,6 +98,7 @@ _Neural Information Processing Systems (NeurIPS) 2017_ \\
 <a href="https://youtu.be/vGSzqbgDB-8" target="_blank">[video]</a>
 &nbsp; 
 <a href="https://github.com/locuslab/e2e-model-learning" target="_blank">[code]</a>
+
 
 ### Policy Reports
 

@@ -7,7 +7,7 @@ img: /img/priyadonti.jpg
 social_media: true
 ---
 
-Hello! I am the Co-founder and Executive Director of <a href="https://www.climatechange.ai/" target="_blank">Climate Change AI</a> (CCAI), a global non-profit initiative to catalyze impactful work at the intersection of climate change and machine learning. I am currently running CCAI through the <a href="https://tech.cornell.edu/programs/phd/startup-postdocs/">Runway Startup Postdoc Program</a>, hosted by Cornell Tech and the Jacobs Institute. I will also join <a href="https://www.eecs.mit.edu/" target="_blank">MIT EECS</a> as an Assistant Professor in Fall 2023, and am currently recruiting postdocs.
+Hello! I am the co-founder and Executive Director of <a href="https://www.climatechange.ai/" target="_blank">Climate Change AI</a> (CCAI), a global nonprofit initiative to catalyze impactful work at the intersection of climate change and machine learning. I am currently running CCAI through the <a href="https://tech.cornell.edu/programs/phd/startup-postdocs/">Runway Startup Postdoc Program</a> at Cornell Tech and the Jacobs Institute. I will also join <a href="https://www.eecs.mit.edu/" target="_blank">MIT EECS</a> as an Assistant Professor in Fall 2023.
 
 My research focuses on machine learning for forecasting, optimization, and control in high-renewables power grids.
 Specifically, my work explores methods to incorporate the physics and hard constraints associated with electric power systems into deep learning workflows.

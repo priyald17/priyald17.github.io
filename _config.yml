@@ -104,9 +104,10 @@ url-pretty: "priyadonti.com"  # eg. "deanattali.com/beautiful-jekyll"
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 #disqus: ""
 
-# Fill in your Google Analytics ID to track your website using GA
+# Fill in your Google Analytics tag ID (or "Measurement ID") to track your website usage
+gtag: "G-043JM57Z8Y"
+# Fill in your Google Analytics ID to track your website using GA -- deprecated
 # google_analytics: "UA-122150802-1"
-google_analytics: "G-043JM57Z8Y"
 
 # Google Tag Manager ID
 #gtm: ""

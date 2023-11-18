@@ -64,16 +64,16 @@
 			{% endif %}
 		  {% endif %}
 
-          {% if page.subtitle2 %}
-            {% if include.type == "page" %}
-            <span class="{{ include.type }}-subheading">{{ page.subtitle2 }}</span>
-            {% else %}
-            <h2 class="{{ include.type }}-subheading">{{ page.subtitle2 }}</h2>
-            {% endif %}
-          {% endif %}
+      {% if page.subtitle2 %}
+        {% if include.type == "page" %}
+        <span class="{{ include.type }}-subheading">{{ page.subtitle2 }}</span>
+        {% else %}
+        <h2 class="{{ include.type }}-subheading">{{ page.subtitle2 }}</h2>
+        {% endif %}
+      {% endif %}
 
           {% if page.social_media %}
-            <span class="{{ include.type }}-subheading">
+            <span class="{{ include.type }}-subheading" style="margin-top:22px">
               {% include social_media.html %}
             </span>
           {% endif %}

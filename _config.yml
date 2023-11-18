@@ -24,10 +24,11 @@ description: Priya L. Donti, Ph.D. Student in Computer Science and Public Policy
 # List of links in the navigation bar
 navbar-links:
   Publications: "publications"
+  Group: "group"
   Climate Change AI: "https://www.climatechange.ai/"
-  Misc: "misc"
-  CV: "files/dontiCV.pdf"
-  Bio: "bio"
+  # CV: "files/dontiCV.pdf"
+  Bio & CV: "bio"
+  # Misc: "misc"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #   - Learn markdown: "http://www.markdowntutorial.com/"
@@ -53,7 +54,7 @@ navbar-col: "light gray"
 # page-col: "#FF0000"
 # page-img: "/img/bgimage.png"
 
-# --- Footer options --- #
+# --- Social media banner options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
@@ -96,9 +97,14 @@ share-links-active:
   google: false
   linkedin: true
 
+
+# --- Footer options --- #
+
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "priyadonti.com"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "priyadonti.com"  # eg. "deanattali.com/beautiful-jekyll"
+office-pretty: "32-D558 (MIT Stata Center)"
+email-pretty: "donti [at] mit [dot] edu"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments

@@ -1,0 +1,34 @@
+---
+- group: Current Members
+  anchor: current-members
+  members:
+    - name: Maria Alder
+      type: undergrad
+      website_url: https://www.linkedin.com/in/maria-alder/
+      image_url: /img/group/alder_maria.png
+    - name: Arsam Aryandoust
+      type: postdoc
+      website_url: https://scholar.google.com/citations?user=bC7mSGUAAAAJ&hl=de
+      image_url: /img/group/aryandoust_arsam.jpg
+    - name: Lara Booth
+      type: Ph.D. student
+    - name: Enrico Marchesini
+      type: postdoc
+      website_url: https://emarche.github.io/
+      image_url: /img/group/marchesini_enrico.png
+    - name: Sobhan Mohammadpour
+      type: Ph.D. student
+      website_url: https://sobhan.info/
+      image_url: /img/group/mohammadpour_sobhan.png
+    - name: Ana Rivera
+      type: Ph.D. student
+      website_url: https://www.linkedin.com/in/ana-rivera-4105a1137/
+      image_url: /img/group/rivera_ana.jpg
+
+# - group: Past Members
+#   anchor: past-members
+#   members:
+#     - name: Priya L. Donti
+#       website_url: https://priyadonti.com/
+#       image_url: /img/group/priyadonti.jpg
+#       affiliation: MIT

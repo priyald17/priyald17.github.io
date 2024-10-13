@@ -2,31 +2,61 @@
 - group: Current Members
   anchor: current-members
   members:
-    - name: Maria Alder
+    - name: Adeoluwa Adekanmbi
       type: undergrad
-      website_url: https://www.linkedin.com/in/maria-alder/
-      image_url: /img/group/alder_maria.png
-    - name: Arsam Aryandoust
-      type: postdoc
-      website_url: https://www.mit.edu/~arsam
-      image_url: /img/group/aryandoust_arsam.jpg
-    - name: Lara Booth
+      website_url: https://www.linkedin.com/in/adeoluwa-adekanmbi/
+      image_url: /img/group/adekanmbi_ade.jpg
+    - name: Alicia Li
+      type: undergrad
+      website_url: https://www.mit.edu/~aliciali/
+      image_url: /img/group/li_alicia.jpg
+    - name: Alvaro Carbonero
       type: Ph.D. student
-      website_url: https://www.linkedin.com/in/lcbooth/
-      image_url: /img/group/booth_lara.jpg
-    - name: Enrico Marchesini
-      type: postdoc
-      website_url: https://emarche.github.io/
-      image_url: /img/group/marchesini_enrico.png
+      website_url: https://www.linkedin.com/in/alvaro-carbonero-9b7567252/
+      image_url: /img/group/carbonero_alvaro.jpg
     - name: Ana Rivera
       type: Ph.D. student
       website_url: https://www.linkedin.com/in/ana-rivera-4105a1137/
       image_url: /img/group/rivera_ana.jpg
+    - name: Anvita Bhagavathula
+      type: Ph.D. student
+      website_url: https://anvibhagavathula.github.io/
+      image_url: /img/group/bhagavathula_anvi.png
+    - name: Arsam Aryandoust
+      type: postdoc
+      website_url: https://www.mit.edu/~arsam
+      image_url: /img/group/aryandoust_arsam.jpg
+    - name: Enrico Marchesini
+      type: postdoc
+      website_url: https://emarche.github.io/
+      image_url: /img/group/marchesini_enrico.png
+    - name: Haley Nakamura
+      type: MEng
+      website_url: https://www.linkedin.com/in/haley-nakamura/
+      image_url: /img/group/nakamura_haley.jpg
+    - name: Hoang Nguyen
+      type: Ph.D. student
+      website_url: https://www.linkedin.com/in/hoang-t-nguyen-971519201
+      image_url: /img/group/nguyen_hoang.jpg
+    - name: James Chen
+      type: Ph.D. student
+      website_url: https://james-y-chen.github.io/
+      image_url: /img/group/chen_james.jpg
+    - name: Lara Booth
+      type: Ph.D. student
+      website_url: https://www.linkedin.com/in/lcbooth/
+      image_url: /img/group/booth_lara.jpg
+    - name: Maria Alder
+      type: undergrad
+      website_url: https://www.linkedin.com/in/maria-alder/
+      image_url: /img/group/alder_maria.png
+    
 
-# - group: Past Members
-#   anchor: past-members
-#   members:
-#     - name: Priya L. Donti
-#       website_url: https://priyadonti.com/
-#       image_url: /img/group/priyadonti.jpg
-#       affiliation: MIT
+
+- group: Past Members
+  anchor: past-members
+  members:
+    - name: Cameron Cowperthwaite
+      type: undergrad, 2024
+      website_url: https://www.linkedin.com/in/cam-cowperthwaite-8090232a4/
+      image_url: /img/group/cowperthwaite_cam.jpg

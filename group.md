@@ -56,7 +56,7 @@ title: Research Group - Priya L. Donti
 <img src="/img/group/default.png">
 {% endif %}
 
-<name>{{p.name}}</name> <member_type>({{p.type}})</member_type>
+<name>{{p.name}}</name><br><member_type>({{p.type}})</member_type>
 
 
 {% if p.website_url %}

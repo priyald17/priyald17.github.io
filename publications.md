@@ -5,10 +5,25 @@ title: Publications - Priya L. Donti
 
 ## Publications
 
-See also my [Google Scholar page](https://scholar.google.com/citations?user=PfRSkfEAAAAJ){:target="_blank"} and my [PhD thesis](https://kilthub.cmu.edu/articles/thesis/Bridging_Deep_Learning_and_Electric_Power_Systems/21357516){:target="_blank"}.<br>
+See also my [Google Scholar page](https://scholar.google.com/citations?user=PfRSkfEAAAAJ){:target="_blank"} and [PhD thesis](https://kilthub.cmu.edu/articles/thesis/Bridging_Deep_Learning_and_Electric_Power_Systems/21357516){:target="_blank"}.<br>
 _* Denotes co-first author_
 
 ### Papers
+
+* __Defining 'Good': Evaluation Framework for Synthetic Smart Meter Data__ \\
+Sheng Chai, Gus Chadney, Charlot Avery, Phil Grunewald, Pascal Van Hentenryck, Priya L. Donti\\
+_arXiv preprint (2024)_\\
+<a href="https://arxiv.org/abs/2407.11785" target="_blank">[preprint]</a>
+
+* __Improving Policy Optimization via ε-Retrain__ \\
+Luca Marzari, Changliu Liu, Priya L. Donti, Enrico Marchesini\\
+_arXiv preprint (2024)_\\
+<a href="https://arxiv.org/abs/2406.08315" target="_blank">[preprint]</a>
+
+* __Position: Application-Driven Innovation in Machine Learning__ \\
+David Rolnick, Alan Aspuru-Guzik, Sara Beery, Bistra Dilkina, Priya L, Donti, Marzyeh Ghassemi, Hannah Kerner, Claire Monteleoni, Esther Rolf, Milind Tambe, Adam White\\
+_International Conference on Machine Learning (ICML) 2024_ \\
+<a href="https://arxiv.org/abs/2403.17381" target="_blank">[paper]</a>
 
 * __Employing Adversarial Robustness Techniques for Large-Scale Stochastic Optimal Power Flow__ \\
 Aayushya Agarwal, Priya L. Donti, J. Zico Kolter, Larry Pileggi \\
@@ -100,7 +115,17 @@ _Neural Information Processing Systems (NeurIPS) 2017_ \\
 <a href="https://github.com/locuslab/e2e-model-learning" target="_blank">[code]</a>
 
 
-### Policy Reports
+### Reports
+
+* __Grand Challenge Initiatives in AI for Climate & Nature: Landscape Assessment and Recommendations__ \\
+Yassine Yaakoubi, Priya L. Donti, Lynn H. Kaack, David Rolnick, Jesse Dunietz, Muneeb Malik, Temilola Afolabi, Paul Kuhne, Onezwa Ndzimande, Mutsa Chinyamakobvu, Ruvimbo Gombakomba, Vongai Chibvongodze, Timothy Leslie, Effuah Bjärby, Teboho Letuka\\
+_Climate Change AI Report (2024)_ \\
+<a href="https://www.climatechange.ai/reports/grandchallenges" target="_blank">[report]</a>
+
+* __The Climate and Sustainability Implications of Generative AI__ \\
+Noman Bashir, Priya L. Donti, James Cuff, Sydney Sroka, Marija Ilic, Vivienne Sze, Christina Delimitrou, Elsa Olivetti\\
+_An MIT Exploration of Generative AI (2024)_ \\
+<a href="https://mit-genai.pubpub.org/pub/8ulgrckc/release/2" target="_blank">[report]</a>
 
 * __Climate Change and AI: Recommendations for Government Action__ \\
 Peter Clutton-Brock\*, David Rolnick\*, Priya L. Donti\*, Lynn H. Kaack\*, Tegan Maharaj, Alexandra Luccioni, Hari Prasanna Das, Cyrus Hodes, Virginia Dignum, Marta Kwiatkowska, Raja Chatila, Nicolas Miailhe \\

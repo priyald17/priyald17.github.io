@@ -6,10 +6,6 @@
       type: undergrad
       website_url: https://www.linkedin.com/in/adeoluwa-adekanmbi/
       image_url: /img/group/adekanmbi_ade.jpg
-    - name: Alicia Li
-      type: undergrad
-      website_url: https://www.mit.edu/~aliciali/
-      image_url: /img/group/li_alicia.jpg
     - name: Alvaro Carbonero
       type: Ph.D. student
       website_url: https://www.linkedin.com/in/alvaro-carbonero-9b7567252/
@@ -36,7 +32,7 @@
       image_url: /img/group/nakamura_haley.jpg
     - name: Hoang Nguyen
       type: Ph.D. student
-      website_url: https://www.linkedin.com/in/hoang-t-nguyen-971519201
+      website_url: https://www.linkedin.com/in/hoang-nguyen-971519201/
       image_url: /img/group/nguyen_hoang.jpg
     - name: James Chen
       type: Ph.D. student
@@ -56,6 +52,10 @@
 - group: Past Members
   anchor: past-members
   members:
+    - name: Alicia Li
+      type: undergrad, 2024
+      website_url: https://www.mit.edu/~aliciali/
+      image_url: /img/group/li_alicia.jpg
     - name: Cameron Cowperthwaite
       type: undergrad, 2024
       website_url: https://www.linkedin.com/in/cam-cowperthwaite-8090232a4/

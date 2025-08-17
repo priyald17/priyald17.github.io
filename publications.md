@@ -10,15 +10,25 @@ _* Denotes co-first author_
 
 ### Papers
 
+* __Large Scale Bilevel Optimization for N-K SCOPF Using Adversarial Robustness__ \\
+Aayushya Agarwal, Priya L Donti, J Zico Kolter, Larry Pileggi\\
+_IEEE Transactions on Power Systems (2025)_ \\
+<a href="https://ieeexplore.ieee.org/abstract/document/11037557" target="_blank">[paper]</a>
+
+* __FSNet: Feasibility-Seeking Neural Network for Constrained Optimization with Guarantees__ \\
+Hoang T Nguyen, Priya L Donti\\
+_arXiv preprint (2025)_\\
+<a href="https://arxiv.org/abs/2506.00362" target="_blank">[paper]</a>
+
+* __Improving Policy Optimization via ε-Retrain__ \\
+Luca Marzari, Changliu Liu, Priya L. Donti, Enrico Marchesini\\
+_International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2025_\\
+<a href="https://arxiv.org/abs/2406.08315" target="_blank">[paper]</a>
+
 * __Defining 'Good': Evaluation Framework for Synthetic Smart Meter Data__ \\
 Sheng Chai, Gus Chadney, Charlot Avery, Phil Grunewald, Pascal Van Hentenryck, Priya L. Donti\\
 _arXiv preprint (2024)_\\
 <a href="https://arxiv.org/abs/2407.11785" target="_blank">[preprint]</a>
-
-* __Improving Policy Optimization via ε-Retrain__ \\
-Luca Marzari, Changliu Liu, Priya L. Donti, Enrico Marchesini\\
-_arXiv preprint (2024)_\\
-<a href="https://arxiv.org/abs/2406.08315" target="_blank">[preprint]</a>
 
 * __Position: Application-Driven Innovation in Machine Learning__ \\
 David Rolnick, Alan Aspuru-Guzik, Sara Beery, Bistra Dilkina, Priya L, Donti, Marzyeh Ghassemi, Hannah Kerner, Claire Monteleoni, Esther Rolf, Milind Tambe, Adam White\\
@@ -115,7 +125,12 @@ _Neural Information Processing Systems (NeurIPS) 2017_ \\
 <a href="https://github.com/locuslab/e2e-model-learning" target="_blank">[code]</a>
 
 
-### Reports
+### Reports and Articles
+
+* __A Vision for Computational Decarbonization of Societal Infrastructure__ \\
+David Irwin, Prashant Shenoy, Mohammad Hajiesmaili, Walid A Hanafy, Jimi Oke, Ramesh Sitaraman, Yuvraj Agarwal, Geoff Gordon, Zico Kolter, Deepak Rajagopal, Mani Srivastava, Vivienne Sze, Priya L. Donti, Andrew Chien, John Birge, Ali Hortacsu, Line Roald\\
+_IEEE Internet Computing (2025)_ \\
+<a href="https://ieeexplore.ieee.org/abstract/document/11018345" target="_blank">[paper]</a>
 
 * __Grand Challenge Initiatives in AI for Climate & Nature: Landscape Assessment and Recommendations__ \\
 Yassine Yaakoubi, Priya L. Donti, Lynn H. Kaack, David Rolnick, Jesse Dunietz, Muneeb Malik, Temilola Afolabi, Paul Kuhne, Onezwa Ndzimande, Mutsa Chinyamakobvu, Ruvimbo Gombakomba, Vongai Chibvongodze, Timothy Leslie, Effuah Bjärby, Teboho Letuka\\
@@ -140,6 +155,11 @@ _Heinrich Böll Foundation E-Paper (2020)_ \\
 <a href="https://www.youtube.com/watch?v=HEw3xhTMnp0&feature=youtu.be&ab_channel=Heinrich-B%C3%B6ll-StiftungEuropeanUnion" target="_blank">[briefing]</a>
 
 ### Workshop Papers
+
+* __PF∆: A Benchmark Dataset for Power Flow with Load, Generator, & Topology Variations__ \\
+Ana K Rivera, Anvita Bhagavathula, Alvaro Carbonero, Priya L Donti\\
+_Tackling Climate Change with Machine Learning Workshop at ICLR 2025_ \\
+<a href="https://www.climatechange.ai/papers/iclr2025/67" target="_blank">[paper]</a>
 
 * __An adversarially robust approach to security-constrained optimal power flow__ \\
 Neeraj Vijay Bedmutha, Priya L. Donti, J. Zico Kolter \\

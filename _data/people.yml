@@ -2,10 +2,6 @@
 - group: Current Members
   anchor: current-members
   members:
-    - name: Adeoluwa Adekanmbi
-      type: undergrad
-      website_url: https://www.linkedin.com/in/adeoluwa-adekanmbi/
-      image_url: /img/group/adekanmbi_ade.jpg
     - name: Alvaro Carbonero
       type: Ph.D. student
       website_url: https://www.linkedin.com/in/alvaro-carbonero-9b7567252/
@@ -29,10 +25,6 @@
       type: postdoc
       website_url: https://emarche.github.io/
       image_url: /img/group/marchesini_enrico.png
-    - name: Haley Nakamura
-      type: MEng
-      website_url: https://www.linkedin.com/in/haley-nakamura/
-      image_url: /img/group/nakamura_haley.jpg
     - name: Hoang Nguyen
       type: Ph.D. student
       website_url: https://www.linkedin.com/in/hoang-nguyen-971519201/
@@ -41,6 +33,10 @@
       type: Ph.D. student
       website_url: https://james-y-chen.github.io/
       image_url: /img/group/chen_james.jpg
+    - name: Khai Nguyen
+      type: Ph.D. student
+      website_url: https://xkhainguyen.github.io/
+      image_url: /img/group/nguyen_khai.jpg
     - name: Lara Booth
       type: Ph.D. student
       website_url: https://www.linkedin.com/in/lcbooth/
@@ -53,11 +49,18 @@
       type: undergrad
       website_url: https://www.linkedin.com/in/ojas-sanghi/
       image_url: /img/group/sanghi_ojas.jpeg
+    - name: Petros Ellinas
+      type: visiting Ph.D. student
+      website_url: https://www.linkedin.com/in/petros-ellinas-b07830114/?originalSubdomain=dk
 
 
 - group: Past Members
   anchor: past-members
   members:
+    - name: Adeoluwa Adekanmbi
+      type: undergrad, 2024-25
+      website_url: https://www.linkedin.com/in/adeoluwa-adekanmbi/
+      image_url: /img/group/adekanmbi_ade.jpg
     - name: Alicia Li
       type: undergrad, 2024
       website_url: https://www.mit.edu/~aliciali/
@@ -77,6 +80,10 @@
     - name: Chotiya Mahittigul
       type: MSc, 2023
       image_url: /img/group/mahittigul_chotiya.png
+    - name: Haley Nakamura
+      type: MEng, 2024-25
+      website_url: https://www.linkedin.com/in/haley-nakamura/
+      image_url: /img/group/nakamura_haley.jpg
     - name: Maria Alder
       type: undergrad, 2023-25
       website_url: https://www.linkedin.com/in/maria-alder/

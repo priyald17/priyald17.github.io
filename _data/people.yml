@@ -14,17 +14,9 @@
       type: Ph.D. student
       website_url: https://anvibhagavathula.github.io/
       image_url: /img/group/bhagavathula_anvi.png
-    - name: Arsam Aryandoust
-      type: postdoc
-      website_url: https://www.mit.edu/~arsam
-      image_url: /img/group/aryandoust_arsam.jpg
     - name: Betsegaw Wosoro
       type: undergrad
       website_url: https://www.linkedin.com/in/betsegaw-wosoro-83a786230/
-    - name: Enrico Marchesini
-      type: postdoc
-      website_url: https://emarche.github.io/
-      image_url: /img/group/marchesini_enrico.png
     - name: Hoang Nguyen
       type: Ph.D. student
       website_url: https://www.linkedin.com/in/hoang-nguyen-971519201/
@@ -69,6 +61,10 @@
       type: undergrad, 2019-21
       website_url: https://www.linkedin.com/in/amyhmwang/
       image_url: /img/group/wang_amy.jpeg
+    - name: Arsam Aryandoust
+      type: postdoc, 2023-25
+      website_url: https://www.mit.edu/~arsam
+      image_url: /img/group/aryandoust_arsam.jpg
     - name: Cameron Cowperthwaite
       type: undergrad, 2024
       website_url: https://www.linkedin.com/in/cam-cowperthwaite-8090232a4/
@@ -80,6 +76,10 @@
     - name: Chotiya Mahittigul
       type: MSc, 2023
       image_url: /img/group/mahittigul_chotiya.png
+    - name: Enrico Marchesini
+      type: postdoc, 2023-25
+      website_url: https://emarche.github.io/
+      image_url: /img/group/marchesini_enrico.png
     - name: Haley Nakamura
       type: MEng, 2024-25
       website_url: https://www.linkedin.com/in/haley-nakamura/

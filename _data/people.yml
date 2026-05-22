@@ -41,10 +41,6 @@
       type: undergrad
       website_url: https://www.linkedin.com/in/ojas-sanghi/
       image_url: /img/group/sanghi_ojas.jpeg
-    - name: Petros Ellinas
-      type: visiting Ph.D. student
-      website_url: https://www.linkedin.com/in/petros-ellinas-b07830114/?originalSubdomain=dk
-      image_url: /img/group/ellinas_petros.jpg
 
 - group: Past Members
   anchor: past-members
@@ -96,6 +92,10 @@
       type: MSc, 2020-21
       website_url: https://www.linkedin.com/in/neerajbedmutha/
       image_url: /img/group/bedmutha_neeraj.jpeg
+    - name: Petros Ellinas
+      type: visiting Ph.D. student, 2025-26
+      website_url: https://www.linkedin.com/in/petros-ellinas-b07830114/?originalSubdomain=dk
+      image_url: /img/group/ellinas_petros.jpg
     - name: Shiva Madadkhani
       type: visiting Ph.D. student, 2025
       website_url: https://www.linkedin.com/in/shiva-madadkhani/?originalSubdomain=de
